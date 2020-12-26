@@ -9,5 +9,3 @@ print(boy)
 
 Boye.be_fucked = lambda s : print(s.name + " is fucked")
 boy.be_fucked()
-
-import howdoi
